@@ -1,8 +1,8 @@
 # Cybersecurity Lab Assignment 4
 ## Explainable and Privacy-Aware AI Threat Alert
 
-**Student:** Aniket Singh
-**Roll Number:** 2501012308
+**Student:** Prince kumar
+**Roll Number:** 2401010198
 **Course:** ENSP355 – AI in Cyber Security  
 **Institution:** K.R. Mangalam University, School of Engineering & Technology  
 **Academic Year:** 2026–27
@@ -39,5 +39,5 @@ python lab4_explainable_privacy_alert.py
 ## Responsible-use note
 The dataset is synthetic and intended for classroom demonstration only. Model confidence is not certainty. Do not automatically block or punish accounts based on this prototype; high-risk or uncertain alerts require human review.
 
-Aniket Singh
-2501012308
+Prince kumar
+2401010198
