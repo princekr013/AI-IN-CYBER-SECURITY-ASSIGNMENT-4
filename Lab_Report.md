@@ -1,7 +1,7 @@
 # Lab 4 Report – Explainable and Privacy-Aware AI Threat Alert
 
-**Student Name:** Aniket Singh
-**Roll Number:** 2501012308
+**Student Name:* Prince kumar
+**Roll Number:** 2401010198
 **Course:** ENSP355 – AI in Cyber Security  
 **Institution:** K.R. Mangalam University, School of Engineering & Technology  
 **Academic Year:** 2026–27
